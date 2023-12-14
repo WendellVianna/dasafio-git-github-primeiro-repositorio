@@ -1,0 +1,2 @@
+Em suma, um dos principais benefícios do versionamento de código é o rastreamento preciso das alterações. Cada commit realizado em um sistema de controle de versão é registrado com informações detalhadas sobre as modificações efetuadas. Portanto, isso permite que os desenvolvedores acessem facilmente versões anteriores do código, comparem as alterações e, se necessário, desfaçam mudanças indesejadas. O rastreamento de alterações é fundamental para a detecção de erros e para a compreensão da evolução do código ao longo do tempo.
+

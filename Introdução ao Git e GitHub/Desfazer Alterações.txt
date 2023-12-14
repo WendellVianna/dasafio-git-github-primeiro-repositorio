@@ -1,0 +1,1 @@
+Outra vantagem do versionamento de código é a capacidade de desfazer alterações quando necessário. Se uma modificação causa problemas ou bugs, os desenvolvedores podem facilmente voltar ao estado anterior do código e corrigir o erro. Isso permite uma maior segurança ao realizar modificações no código, já que é possível reverter para uma versão anterior em caso de problemas.
